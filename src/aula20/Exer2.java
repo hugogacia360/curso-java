@@ -1,8 +1,6 @@
 package aula20;
 import java.util.Random;
 
-import java.util.Random;
-
 public class Exer2 {
 
     public static void main(String[] args) {

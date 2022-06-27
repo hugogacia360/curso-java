@@ -1,6 +1,6 @@
 package Aula25;
 
-public class TesteCarro {
+public class App {
     public static void main(String args[]) {
 
         Carro van = new Carro();

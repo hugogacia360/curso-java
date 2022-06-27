@@ -1,6 +1,6 @@
 package aula24.Exer1;
 
-public class Exer1 {
+public class App {
     public static void main (String args[]){
 
         Lampada L1 = new Lampada(); //instancia um objeto da classe lampada

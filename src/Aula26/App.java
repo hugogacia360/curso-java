@@ -1,6 +1,6 @@
-package Aula27;
+package Aula26;
 
-public class TesteCarro {
+public class App {
     public static void main(String args[]) {
         Carro van = new Carro();
         van.marca = "Fiat";
@@ -16,8 +16,7 @@ public class TesteCarro {
 
         // double autonomia = van.obterAutonomia(); //variavel autonomia receber o
         // retorno do metodo obterAutonomia
-        System.out.println("A autonomia do carro e " + van.obterAutonomia()); // metodo void sem parametro
-        System.out.println("qtdCombustivel " + van.calcularCombustivel(10)); // passa o parametro para o metodo
+        System.out.println("A autonomia do carro e " + van.obterAutonomia());
 
     }
 }
