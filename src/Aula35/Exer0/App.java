@@ -1,4 +1,4 @@
-package Exer35.Exer0;
+package Aula35.Exer0;
 
 public class App {
     public static void main(String args[]){

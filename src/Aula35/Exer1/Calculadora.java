@@ -1,4 +1,4 @@
-package Exer35.Exer1;
+package Aula35.Exer1;
 
 public class Calculadora {
     public static int fibonacci (int num){
